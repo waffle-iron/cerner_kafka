@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Todd79/cerner_kafka.png?label=ready&title=Ready)](https://waffle.io/Todd79/cerner_kafka?utm_source=badge)
 Cerner Kafka
 ============
 
